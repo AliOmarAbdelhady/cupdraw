@@ -1,0 +1,18 @@
+export const SAMPLE_TEAMS = [
+  "Real Madrid",
+  "Barcelona",
+  "Liverpool",
+  "Man City",
+  "Arsenal",
+  "Chelsea",
+  "Bayern München",
+  "Dortmund",
+  "PSG",
+  "Juventus",
+  "Inter",
+  "AC Milan",
+  "Atlético",
+  "Ajax",
+  "Porto",
+  "Benfica",
+] as const;
